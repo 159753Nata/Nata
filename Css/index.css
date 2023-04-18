@@ -1,0 +1,30 @@
+/* div {
+    font-size: 40px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+
+} */
+.one{
+width: 50px;
+height: 50px;
+background-color: aquamarine;
+}
+
+.red{
+    color: rgb(255, 0, 0);
+}
+/* .two{
+    left: 70px;
+}
+.three{
+    top: 100px;
+}
+.four{
+    top: 100px;
+    left: 70px;
+} */
+
+p {
+    color: rgb(201, 0, 0);
+}
